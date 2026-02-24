@@ -2,3 +2,4 @@
 # be part of the story
 # the upbit network
 # get up id in playground
+# and wait for new update
